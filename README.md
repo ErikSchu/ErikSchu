@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ErikSchu
 - 👀 I’m interested in music and pc stuff
-- 🌱 I’m currently learning how to code
-- 📫 How to reach me: probiably irellevant
+- 🌱 I’m currently studying computer science in my first term at TU Dortmund
+- 📫 How to reach me: erik.schulze@tu-dortmund.de
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Everyone at school thinks I'm highly gifted but I'm not at all
+- ⚡ Fun fact: I'm doing maths as my minor subject, which is a bit of a love-hate kind of thing for me
 
 <!---
 ErikSchu/ErikSchu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
